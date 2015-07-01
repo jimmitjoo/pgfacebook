@@ -1,0 +1,449 @@
+2015-07-01 14:52:01.951 Hello World[58215:12774010] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/73B2C2D7-D92B-4047-8908-6DDF531DC120/Library/Cookies/Cookies.binarycookies
+2015-07-01 14:52:02.113 Hello World[58215:12774010] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 14:52:02.114 Hello World[58215:12774010] Multi-tasking -> Device: YES, App: YES
+2015-07-01 14:52:02.127 Hello World[58215:12774010] Unlimited access to network resources
+2015-07-01 14:52:02.141 Hello World[58215:12774010] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 14:52:02.485 Hello World[58215:12774010] Resetting plugins due to page load.
+2015-07-01 14:52:02.626 Hello World[58215:12774010] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/4637BDB0-E8B5-48D5-9377-0BCA3531E1DD/Hello%20World.app/www/index.html
+2015-07-01 14:59:22.365 Hello World[58508:12808380] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/0373A80D-1F1F-4538-BE72-AF2C88D892C6/Library/Cookies/Cookies.binarycookies
+2015-07-01 14:59:22.703 Hello World[58508:12808380] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 14:59:22.703 Hello World[58508:12808380] Multi-tasking -> Device: YES, App: YES
+2015-07-01 14:59:22.721 Hello World[58508:12808380] Unlimited access to network resources
+2015-07-01 14:59:22.731 Hello World[58508:12808380] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 14:59:23.511 Hello World[58508:12808380] Resetting plugins due to page load.
+2015-07-01 14:59:23.779 Hello World[58508:12808380] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/661685BA-CC19-4A1C-86D2-6657AF68475A/Hello%20World.app/www/index.html
+2015-07-01 14:59:56.625 Hello World[58695:12809784] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/E5FF00FF-690A-457F-BF8C-749CF8CD67EA/Library/Cookies/Cookies.binarycookies
+2015-07-01 14:59:56.796 Hello World[58695:12809784] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 14:59:56.796 Hello World[58695:12809784] Multi-tasking -> Device: YES, App: YES
+2015-07-01 14:59:56.816 Hello World[58695:12809784] Unlimited access to network resources
+2015-07-01 14:59:56.831 Hello World[58695:12809784] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 14:59:57.185 Hello World[58695:12809784] Resetting plugins due to page load.
+2015-07-01 14:59:57.304 Hello World[58695:12809784] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/E2DCE297-1828-42C3-9728-58C456BE0B72/Hello%20World.app/www/index.html
+2015-07-01 15:01:36.141 Hello World[58898:12816659] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/8D9C7433-838B-455E-A16C-5FE882483767/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:01:36.355 Hello World[58898:12816659] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:01:36.355 Hello World[58898:12816659] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:01:36.368 Hello World[58898:12816659] Unlimited access to network resources
+2015-07-01 15:01:36.388 Hello World[58898:12816659] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:01:36.819 Hello World[58898:12816659] Resetting plugins due to page load.
+2015-07-01 15:01:37.032 Hello World[58898:12816659] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/FA759D4F-CF10-45D4-9FCD-E70BAE6B6F81/Hello%20World.app/www/index.html
+2015-07-01 15:05:40.755 Hello World[59489:12835708] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/5CCAF8DA-5A8F-455C-AD5C-589559DBACDD/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:05:40.903 Hello World[59489:12835708] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:05:40.903 Hello World[59489:12835708] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:05:40.919 Hello World[59489:12835708] Unlimited access to network resources
+2015-07-01 15:05:40.937 Hello World[59489:12835708] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:05:41.282 Hello World[59489:12835708] Resetting plugins due to page load.
+2015-07-01 15:05:41.406 Hello World[59489:12835708] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/A4F5C249-3A5B-4A4F-AA63-7C9DCA18FF7E/Hello%20World.app/www/index.html
+2015-07-01 15:14:36.766 TimeToRun[60167:12880260] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/75455B1A-ACE6-4D27-A3F8-4E0A1F385337/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:14:37.050 TimeToRun[60167:12880260] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:14:37.050 TimeToRun[60167:12880260] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:14:37.063 TimeToRun[60167:12880260] Unlimited access to network resources
+2015-07-01 15:14:37.075 TimeToRun[60167:12880260] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:14:37.938 TimeToRun[60167:12880260] Resetting plugins due to page load.
+2015-07-01 15:14:38.198 TimeToRun[60167:12880260] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/DBD81715-8E71-4082-9EE1-036897FBA8EB/TimeToRun.app/www/index.html
+2015-07-01 15:18:09.185 TimeToRun[60414:12900967] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/724AA4C3-DD4F-4EE0-887C-1FC033CE1E17/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:18:09.456 TimeToRun[60414:12900967] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:18:09.456 TimeToRun[60414:12900967] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:18:09.471 TimeToRun[60414:12900967] Unlimited access to network resources
+2015-07-01 15:18:09.482 TimeToRun[60414:12900967] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:18:10.050 TimeToRun[60414:12900967] Resetting plugins due to page load.
+2015-07-01 15:18:10.230 TimeToRun[60414:12900967] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/BCB7C7A1-2EDB-4ED4-AA55-6D15431A3727/TimeToRun.app/www/index.html
+2015-07-01 15:25:55.224 TimeToRun[60920:12945343] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/44C7EF52-95CB-4513-B2C7-4C6F4398FDDF/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:25:55.437 TimeToRun[60920:12945343] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:25:55.437 TimeToRun[60920:12945343] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:25:55.454 TimeToRun[60920:12945343] Unlimited access to network resources
+2015-07-01 15:25:55.463 TimeToRun[60920:12945343] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:25:55.873 TimeToRun[60920:12945343] Resetting plugins due to page load.
+2015-07-01 15:25:56.057 TimeToRun[60920:12945343] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/C6B1E52C-77C8-4231-8302-A6673A329861/TimeToRun.app/www/index.html
+2015-07-01 15:26:37.189 TimeToRun[61109:12948701] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/FEFC9070-BEE8-4737-810F-2CE116E309C3/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:26:37.285 TimeToRun[61109:12948701] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:26:37.286 TimeToRun[61109:12948701] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:26:37.300 TimeToRun[61109:12948701] Unlimited access to network resources
+2015-07-01 15:26:37.303 TimeToRun[61109:12948701] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:26:37.438 TimeToRun[61109:12948701] Resetting plugins due to page load.
+2015-07-01 15:26:37.495 TimeToRun[61109:12948701] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/1DC77A36-7977-498B-8FA3-A83F83DCFB07/TimeToRun.app/www/index.html
+2015-07-01 15:29:23.901 TimeToRun[61585:12961071] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/1EEB740E-BD9C-4087-9F3E-4680915A7EA7/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:29:24.053 TimeToRun[61585:12961071] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:29:24.053 TimeToRun[61585:12961071] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:29:24.067 TimeToRun[61585:12961071] Unlimited access to network resources
+2015-07-01 15:29:24.069 TimeToRun[61585:12961071] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:29:24.162 TimeToRun[61585:12961071] Init FacebookConnect Session
+2015-07-01 15:29:24.170 TimeToRun[61585:12961071] [CDVTimer][facebookconnectplugin] 6.349981ms
+2015-07-01 15:29:24.170 TimeToRun[61585:12961071] [CDVTimer][TotalPluginStartup] 7.818997ms
+2015-07-01 15:29:24.413 TimeToRun[61585:12961071] Resetting plugins due to page load.
+2015-07-01 15:29:24.531 TimeToRun[61585:12961071] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/C41F4BED-4A71-401F-8A9F-7D6F2BA1CEB3/TimeToRun.app/www/index.html
+2015-07-01 15:29:24.792 TimeToRun[61585:12961071] THREAD WARNING: ['FacebookConnectPlugin'] took '229.268066' ms. Plugin should use a background thread.
+2015-07-01 15:31:45.397 TimeToRun[61807:12978774] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/A94B311C-2E2A-48C5-9259-57DC09DBF25A/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:31:45.560 TimeToRun[61807:12978774] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:31:45.560 TimeToRun[61807:12978774] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:31:45.575 TimeToRun[61807:12978774] Unlimited access to network resources
+2015-07-01 15:31:45.595 TimeToRun[61807:12978774] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:31:45.679 TimeToRun[61807:12978774] Init FacebookConnect Session
+2015-07-01 15:31:45.703 TimeToRun[61807:12978774] [CDVTimer][facebookconnectplugin] 24.188995ms
+2015-07-01 15:31:45.704 TimeToRun[61807:12978774] [CDVTimer][TotalPluginStartup] 24.366021ms
+2015-07-01 15:31:45.988 TimeToRun[61807:12978774] Resetting plugins due to page load.
+2015-07-01 15:31:46.104 TimeToRun[61807:12978774] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/F6A3E231-3EC2-4C0A-B271-54FB3FD1C654/TimeToRun.app/www/index.html
+2015-07-01 15:31:46.149 TimeToRun[61807:12978774] THREAD WARNING: ['FacebookConnectPlugin'] took '12.321045' ms. Plugin should use a background thread.
+2015-07-01 15:33:26.722 TimeToRun[62014:12991406] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/68B7E6CE-C77F-4E37-A89C-733807908D1D/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:33:26.868 TimeToRun[62014:12991406] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:33:26.868 TimeToRun[62014:12991406] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:33:26.882 TimeToRun[62014:12991406] Unlimited access to network resources
+2015-07-01 15:33:26.895 TimeToRun[62014:12991406] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:33:26.979 TimeToRun[62014:12991406] Init FacebookConnect Session
+2015-07-01 15:33:26.982 TimeToRun[62014:12991406] [CDVTimer][facebookconnectplugin] 2.926946ms
+2015-07-01 15:33:26.982 TimeToRun[62014:12991406] [CDVTimer][TotalPluginStartup] 3.091991ms
+2015-07-01 15:33:27.263 TimeToRun[62014:12991406] Resetting plugins due to page load.
+2015-07-01 15:33:27.387 TimeToRun[62014:12991406] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/A903CCE6-D0FD-4492-8B5A-2CBC18919FC3/TimeToRun.app/www/index.html
+2015-07-01 15:33:27.428 TimeToRun[62014:12991406] THREAD WARNING: ['FacebookConnectPlugin'] took '12.382080' ms. Plugin should use a background thread.
+2015-07-01 15:56:57.199 TimeToRun[62579:13090314] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/3BCC2257-29B9-48A5-A160-A81D925A39B4/Library/Cookies/Cookies.binarycookies
+2015-07-01 15:56:57.364 TimeToRun[62579:13090314] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 15:56:57.364 TimeToRun[62579:13090314] Multi-tasking -> Device: YES, App: YES
+2015-07-01 15:56:57.382 TimeToRun[62579:13090314] Unlimited access to network resources
+2015-07-01 15:56:57.396 TimeToRun[62579:13090314] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 15:56:57.496 TimeToRun[62579:13090314] Init FacebookConnect Session
+2015-07-01 15:56:57.500 TimeToRun[62579:13090314] [CDVTimer][facebookconnectplugin] 3.062963ms
+2015-07-01 15:56:57.500 TimeToRun[62579:13090314] [CDVTimer][TotalPluginStartup] 3.226042ms
+2015-07-01 15:56:57.806 TimeToRun[62579:13090314] Resetting plugins due to page load.
+2015-07-01 15:56:58.074 TimeToRun[62579:13090314] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/72B0B792-08FD-494F-B003-F7E0BC7F960A/TimeToRun.app/www/index.html
+2015-07-01 15:56:58.123 TimeToRun[62579:13090314] THREAD WARNING: ['FacebookConnectPlugin'] took '12.773193' ms. Plugin should use a background thread.
+2015-07-01 16:20:09.887 TimeToRun[63158:13155646] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/15847A29-F139-48E0-9F8C-FA67359DDEB5/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:20:10.131 TimeToRun[63158:13155646] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:20:10.132 TimeToRun[63158:13155646] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:20:10.148 TimeToRun[63158:13155646] Unlimited access to network resources
+2015-07-01 16:20:10.174 TimeToRun[63158:13155646] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:20:10.265 TimeToRun[63158:13155646] Init FacebookConnect Session
+2015-07-01 16:20:10.274 TimeToRun[63158:13155646] [CDVTimer][facebookconnectplugin] 5.912006ms
+2015-07-01 16:20:10.274 TimeToRun[63158:13155646] [CDVTimer][TotalPluginStartup] 8.741021ms
+2015-07-01 16:20:11.306 TimeToRun[63158:13155646] Resetting plugins due to page load.
+2015-07-01 16:20:11.462 TimeToRun[63158:13155646] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/FBE50012-14EC-4450-981B-D329C1835AAB/TimeToRun.app/www/index.html
+2015-07-01 16:21:51.058 TimeToRun[63361:13167593] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/C72A61AF-46EA-4B17-84A0-8780F947EE48/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:21:51.212 TimeToRun[63361:13167593] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:21:51.212 TimeToRun[63361:13167593] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:21:51.243 TimeToRun[63361:13167593] Unlimited access to network resources
+2015-07-01 16:21:51.257 TimeToRun[63361:13167593] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:21:51.339 TimeToRun[63361:13167593] Init FacebookConnect Session
+2015-07-01 16:21:51.342 TimeToRun[63361:13167593] [CDVTimer][facebookconnectplugin] 2.954006ms
+2015-07-01 16:21:51.342 TimeToRun[63361:13167593] [CDVTimer][TotalPluginStartup] 3.116012ms
+2015-07-01 16:21:51.606 TimeToRun[63361:13167593] Resetting plugins due to page load.
+2015-07-01 16:21:51.733 TimeToRun[63361:13167593] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/6AA71E41-D248-42B3-8EC2-0AC3873A90F6/TimeToRun.app/www/index.html
+2015-07-01 16:22:48.383 TimeToRun[63567:13172189] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/502CD65A-2AA7-4624-B9A8-DA54CEC91EFC/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:22:48.529 TimeToRun[63567:13172189] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:22:48.529 TimeToRun[63567:13172189] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:22:48.541 TimeToRun[63567:13172189] Unlimited access to network resources
+2015-07-01 16:22:48.549 TimeToRun[63567:13172189] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:22:48.632 TimeToRun[63567:13172189] Init FacebookConnect Session
+2015-07-01 16:22:48.635 TimeToRun[63567:13172189] [CDVTimer][facebookconnectplugin] 3.112018ms
+2015-07-01 16:22:48.635 TimeToRun[63567:13172189] [CDVTimer][TotalPluginStartup] 3.278971ms
+2015-07-01 16:22:48.889 TimeToRun[63567:13172189] Resetting plugins due to page load.
+2015-07-01 16:22:49.009 TimeToRun[63567:13172189] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/9D490A1F-EA38-45B7-A666-923BB928C2CC/TimeToRun.app/www/index.html
+2015-07-01 16:23:21.206 TimeToRun[63754:13175595] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/512E9361-FF2A-4AA9-8E23-19FCB280381C/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:23:21.314 TimeToRun[63754:13175595] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:23:21.314 TimeToRun[63754:13175595] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:23:21.319 TimeToRun[63754:13175595] Unlimited access to network resources
+2015-07-01 16:23:21.322 TimeToRun[63754:13175595] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:23:21.407 TimeToRun[63754:13175595] Init FacebookConnect Session
+2015-07-01 16:23:21.410 TimeToRun[63754:13175595] [CDVTimer][facebookconnectplugin] 3.304005ms
+2015-07-01 16:23:21.410 TimeToRun[63754:13175595] [CDVTimer][TotalPluginStartup] 3.565013ms
+2015-07-01 16:23:21.463 TimeToRun[63754:13175595] Resetting plugins due to page load.
+2015-07-01 16:23:21.517 TimeToRun[63754:13175595] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/74767801-9B65-44BA-A8DC-4D42F3832DAF/TimeToRun.app/www/index.html
+2015-07-01 16:25:09.492 TimeToRun[63970:13191096] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/138C86F6-C7DF-4016-811D-BA72E5210092/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:25:09.686 TimeToRun[63970:13191096] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:25:09.686 TimeToRun[63970:13191096] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:25:09.701 TimeToRun[63970:13191096] Unlimited access to network resources
+2015-07-01 16:25:09.715 TimeToRun[63970:13191096] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:25:09.800 TimeToRun[63970:13191096] Init FacebookConnect Session
+2015-07-01 16:25:09.803 TimeToRun[63970:13191096] [CDVTimer][facebookconnectplugin] 3.073990ms
+2015-07-01 16:25:09.803 TimeToRun[63970:13191096] [CDVTimer][TotalPluginStartup] 3.239989ms
+2015-07-01 16:25:10.124 TimeToRun[63970:13191096] Resetting plugins due to page load.
+2015-07-01 16:25:10.269 TimeToRun[63970:13191096] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/0E57176F-FA11-4AAD-963F-99A801D5374A/TimeToRun.app/www/index.html
+2015-07-01 16:25:48.815 TimeToRun[64158:13196923] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/408C0811-B621-4AB8-87A0-EAC00509FC7E/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:25:48.978 TimeToRun[64158:13196923] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:25:48.979 TimeToRun[64158:13196923] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:25:48.995 TimeToRun[64158:13196923] Unlimited access to network resources
+2015-07-01 16:25:49.006 TimeToRun[64158:13196923] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:25:49.092 TimeToRun[64158:13196923] Init FacebookConnect Session
+2015-07-01 16:25:49.095 TimeToRun[64158:13196923] [CDVTimer][facebookconnectplugin] 3.243983ms
+2015-07-01 16:25:49.095 TimeToRun[64158:13196923] [CDVTimer][TotalPluginStartup] 3.413022ms
+2015-07-01 16:25:49.419 TimeToRun[64158:13196923] Resetting plugins due to page load.
+2015-07-01 16:25:49.602 TimeToRun[64158:13196923] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/86D7FC1E-56A5-4C6D-8E51-375A3059FB7E/TimeToRun.app/www/index.html
+2015-07-01 16:27:27.431 TimeToRun[64355:13208523] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/D88106B0-B645-4FD2-B571-558C34503408/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:27:27.594 TimeToRun[64355:13208523] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:27:27.594 TimeToRun[64355:13208523] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:27:27.611 TimeToRun[64355:13208523] Unlimited access to network resources
+2015-07-01 16:27:27.622 TimeToRun[64355:13208523] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:27:27.705 TimeToRun[64355:13208523] Init FacebookConnect Session
+2015-07-01 16:27:27.708 TimeToRun[64355:13208523] [CDVTimer][facebookconnectplugin] 3.098011ms
+2015-07-01 16:27:27.708 TimeToRun[64355:13208523] [CDVTimer][TotalPluginStartup] 3.262997ms
+2015-07-01 16:27:27.943 TimeToRun[64355:13208523] Resetting plugins due to page load.
+2015-07-01 16:27:28.055 TimeToRun[64355:13208523] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/D88A336F-BE7C-46B4-B8FB-8F2DE22DC415/TimeToRun.app/www/index.html
+2015-07-01 16:27:36.713 TimeToRun[64355:13208523] THREAD WARNING: ['FacebookConnectPlugin'] took '21.532959' ms. Plugin should use a background thread.
+2015-07-01 16:27:44.799 TimeToRun[64355:13208523] THREAD WARNING: ['FacebookConnectPlugin'] took '1785.612061' ms. Plugin should use a background thread.
+2015-07-01 16:27:46.265 TimeToRun[64355:13208523] THREAD WARNING: ['FacebookConnectPlugin'] took '14.928223' ms. Plugin should use a background thread.
+2015-07-01 16:30:16.847 TimeToRun[64569:13227187] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/1A2A05D9-091F-45D4-B896-A77B2CA9CA15/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:30:17.010 TimeToRun[64569:13227187] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:30:17.011 TimeToRun[64569:13227187] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:30:17.027 TimeToRun[64569:13227187] Unlimited access to network resources
+2015-07-01 16:30:17.038 TimeToRun[64569:13227187] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:30:17.130 TimeToRun[64569:13227187] Init FacebookConnect Session
+2015-07-01 16:30:17.156 TimeToRun[64569:13227187] [CDVTimer][facebookconnectplugin] 26.661038ms
+2015-07-01 16:30:17.157 TimeToRun[64569:13227187] [CDVTimer][TotalPluginStartup] 26.852012ms
+2015-07-01 16:30:17.497 TimeToRun[64569:13227187] Resetting plugins due to page load.
+2015-07-01 16:30:17.638 TimeToRun[64569:13227187] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/6C48E2EE-0E40-440B-8876-B75D2B5A13CB/TimeToRun.app/www/index.html
+2015-07-01 16:30:19.960 TimeToRun[64569:13227187] THREAD WARNING: ['FacebookConnectPlugin'] took '10.565186' ms. Plugin should use a background thread.
+2015-07-01 16:30:25.285 TimeToRun[64569:13227187] THREAD WARNING: ['FacebookConnectPlugin'] took '2888.207031' ms. Plugin should use a background thread.
+2015-07-01 16:30:27.758 TimeToRun[64569:13227187] THREAD WARNING: ['FacebookConnectPlugin'] took '1369.972900' ms. Plugin should use a background thread.
+2015-07-01 16:34:32.190 TimeToRun[64783:13245750] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/A0EFA0BE-68DD-44DF-A176-E270426CBB2B/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:34:32.350 TimeToRun[64783:13245750] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:34:32.351 TimeToRun[64783:13245750] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:34:32.372 TimeToRun[64783:13245750] Unlimited access to network resources
+2015-07-01 16:34:32.387 TimeToRun[64783:13245750] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:34:32.470 TimeToRun[64783:13245750] Init FacebookConnect Session
+2015-07-01 16:34:32.497 TimeToRun[64783:13245750] [CDVTimer][facebookconnectplugin] 27.292013ms
+2015-07-01 16:34:32.497 TimeToRun[64783:13245750] [CDVTimer][TotalPluginStartup] 27.463973ms
+2015-07-01 16:34:32.815 TimeToRun[64783:13245750] Resetting plugins due to page load.
+2015-07-01 16:34:32.958 TimeToRun[64783:13245750] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/4EB6BFFE-4926-4709-B613-E5E8A2A86F16/TimeToRun.app/www/index.html
+2015-07-01 16:35:58.118 TimeToRun[64978:13253850] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/BE175BE1-052F-491A-B1E9-15AC6A8836F2/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:35:58.221 TimeToRun[64978:13253850] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:35:58.222 TimeToRun[64978:13253850] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:35:58.226 TimeToRun[64978:13253850] Unlimited access to network resources
+2015-07-01 16:35:58.230 TimeToRun[64978:13253850] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:35:58.314 TimeToRun[64978:13253850] Init FacebookConnect Session
+2015-07-01 16:35:58.321 TimeToRun[64978:13253850] [CDVTimer][facebookconnectplugin] 6.989956ms
+2015-07-01 16:35:58.321 TimeToRun[64978:13253850] [CDVTimer][TotalPluginStartup] 7.171035ms
+2015-07-01 16:35:58.372 TimeToRun[64978:13253850] Resetting plugins due to page load.
+2015-07-01 16:35:58.434 TimeToRun[64978:13253850] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/58AAEF84-3394-43CA-8B82-B44229247083/TimeToRun.app/www/index.html
+2015-07-01 16:37:02.304 TimeToRun[65178:13260929] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/17A7AE61-ABAA-4DAC-B130-89AB2752039D/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:37:02.467 TimeToRun[65178:13260929] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:37:02.467 TimeToRun[65178:13260929] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:37:02.484 TimeToRun[65178:13260929] Unlimited access to network resources
+2015-07-01 16:37:02.495 TimeToRun[65178:13260929] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:37:02.577 TimeToRun[65178:13260929] Init FacebookConnect Session
+2015-07-01 16:37:02.605 TimeToRun[65178:13260929] [CDVTimer][facebookconnectplugin] 27.420998ms
+2015-07-01 16:37:02.605 TimeToRun[65178:13260929] [CDVTimer][TotalPluginStartup] 27.589977ms
+2015-07-01 16:37:02.918 TimeToRun[65178:13260929] Resetting plugins due to page load.
+2015-07-01 16:37:03.039 TimeToRun[65178:13260929] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/75A1AE7A-6616-4A7A-A9FB-96B6643B73E2/TimeToRun.app/www/index.html
+2015-07-01 16:37:07.585 TimeToRun[65178:13260929] THREAD WARNING: ['FacebookConnectPlugin'] took '23.604980' ms. Plugin should use a background thread.
+2015-07-01 16:37:58.295 TimeToRun[65368:13267205] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/602F5B25-1815-4AA0-8428-BCC8A995FCBE/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:37:58.450 TimeToRun[65368:13267205] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:37:58.450 TimeToRun[65368:13267205] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:37:58.466 TimeToRun[65368:13267205] Unlimited access to network resources
+2015-07-01 16:37:58.478 TimeToRun[65368:13267205] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:37:58.584 TimeToRun[65368:13267205] Init FacebookConnect Session
+2015-07-01 16:37:58.603 TimeToRun[65368:13267205] [CDVTimer][facebookconnectplugin] 18.700004ms
+2015-07-01 16:37:58.603 TimeToRun[65368:13267205] [CDVTimer][TotalPluginStartup] 18.876016ms
+2015-07-01 16:37:58.933 TimeToRun[65368:13267205] Resetting plugins due to page load.
+2015-07-01 16:37:59.052 TimeToRun[65368:13267205] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/B0BC8860-F617-432F-9AD8-9B85AC45F20D/TimeToRun.app/www/index.html
+2015-07-01 16:38:02.821 TimeToRun[65368:13267205] THREAD WARNING: ['FacebookConnectPlugin'] took '10.330322' ms. Plugin should use a background thread.
+2015-07-01 16:38:56.904 TimeToRun[65557:13273152] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/9C8B0F5E-7F7D-43A3-B7A9-1F5F05B0C02D/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:38:57.143 TimeToRun[65557:13273152] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:38:57.143 TimeToRun[65557:13273152] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:38:57.162 TimeToRun[65557:13273152] Unlimited access to network resources
+2015-07-01 16:38:57.177 TimeToRun[65557:13273152] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:38:57.277 TimeToRun[65557:13273152] Init FacebookConnect Session
+2015-07-01 16:38:57.582 TimeToRun[65557:13273152] [CDVTimer][facebookconnectplugin] 304.955959ms
+2015-07-01 16:38:57.582 TimeToRun[65557:13273152] [CDVTimer][TotalPluginStartup] 305.159032ms
+2015-07-01 16:38:57.975 TimeToRun[65557:13273152] Resetting plugins due to page load.
+2015-07-01 16:38:58.091 TimeToRun[65557:13273152] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/21E4328D-BA81-4C57-B350-706B0CAEABF9/TimeToRun.app/www/index.html
+2015-07-01 16:39:02.360 TimeToRun[65557:13273152] THREAD WARNING: ['FacebookConnectPlugin'] took '11.240234' ms. Plugin should use a background thread.
+2015-07-01 16:39:29.593 TimeToRun[65557:13273152] THREAD WARNING: ['FacebookConnectPlugin'] took '241.098145' ms. Plugin should use a background thread.
+2015-07-01 16:39:33.654 TimeToRun[65557:13273152] THREAD WARNING: ['FacebookConnectPlugin'] took '15.855225' ms. Plugin should use a background thread.
+2015-07-01 16:41:19.427 TimeToRun[65763:13285119] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Data/Application/9CB8624F-32F1-420C-B320-307243E6FC8B/Library/Cookies/Cookies.binarycookies
+2015-07-01 16:41:19.582 TimeToRun[65763:13285119] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-01 16:41:19.582 TimeToRun[65763:13285119] Multi-tasking -> Device: YES, App: YES
+2015-07-01 16:41:19.599 TimeToRun[65763:13285119] Unlimited access to network resources
+2015-07-01 16:41:19.610 TimeToRun[65763:13285119] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-07-01 16:41:19.692 TimeToRun[65763:13285119] Init FacebookConnect Session
+2015-07-01 16:41:19.715 TimeToRun[65763:13285119] [CDVTimer][facebookconnectplugin] 22.938013ms
+2015-07-01 16:41:19.715 TimeToRun[65763:13285119] [CDVTimer][TotalPluginStartup] 23.106992ms
+2015-07-01 16:41:20.014 TimeToRun[65763:13285119] Resetting plugins due to page load.
+2015-07-01 16:41:20.153 TimeToRun[65763:13285119] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/D7CE1D3F-09FF-4E35-ACB0-B3B7B360160E/TimeToRun.app/www/index.html
+2015-07-01 16:41:28.681 TimeToRun[65763:13285119] THREAD WARNING: ['FacebookConnectPlugin'] took '16.867920' ms. Plugin should use a background thread.
+2015-07-01 16:41:37.771 TimeToRun[65763:13285119] THREAD WARNING: ['FacebookConnectPlugin'] took '14.908936' ms. Plugin should use a background thread.
