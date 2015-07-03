@@ -1,36 +1,8 @@
-var api = {
-
-    baseUrl: function(){
-        return 'http://timetorun.se/api';
-    },
-
-    call: function (request) {
-        var xhr;
-        var dataList;
-        xhr = new XMLHttpRequest();
-
-        xhr.open('GET', this.baseUrl + '?' + request + '&callback=api.callback',  true);
-        xhr.send();
-
-        xhr.onreadystatechange = function(){
-            if (xhr.readyState == 4){
-                console.log(dataList);
-            }
-        };
-    },
-
-    callback: function (data) {
-        alert(data);
-    }
-
-
-}
-
 var facebook = {
 
     login: function () {
         facebookConnectPlugin.login(["email", "user_location"],
-            facebook.loginSuccess,
+            this.loginSuccess,
             function (error) { alert("Error: " + error) }
         );
     },

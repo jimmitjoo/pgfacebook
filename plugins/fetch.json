@@ -17,5 +17,13 @@
             "APP_ID": "1432852267028834",
             "APP_NAME": "Timetorun"
         }
+    },
+    "cordova-plugin-statusbar": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-statusbar"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }

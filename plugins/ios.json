@@ -63,6 +63,18 @@
                         {
                             "xml": "<access origin=\"https://*.akamaihd.net\" />",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"StatusBar\"><param name=\"ios-package\" value=\"CDVStatusBar\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<preference name=\"StatusBarOverlaysWebView\" value=\"true\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<preference name=\"StatusBarStyle\" value=\"lightcontent\" />",
+                            "count": 1
                         }
                     ]
                 }
@@ -98,6 +110,9 @@
         "com.phonegap.plugins.facebookconnect": {
             "APP_ID": "1432852267028834",
             "APP_NAME": "Timetorun",
+            "PACKAGE_NAME": "com.hackson.timetorun"
+        },
+        "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.hackson.timetorun"
         }
     },

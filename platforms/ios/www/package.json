@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "angular": "~1.4.1",
+    "angular-route": "~1.4.1"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-concat": "~2.6.0",
+    "gulp-watch": "~4.2.4"
+  }
+}
