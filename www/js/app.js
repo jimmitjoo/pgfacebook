@@ -1,4 +1,4 @@
-var facebook = {
+/*var facebook = {
 
     login: function () {
         facebookConnectPlugin.login(["email", "user_location"],
@@ -31,7 +31,7 @@ var facebook = {
         alert(fbToken);
     }
 
-}
+}*/
 
-var currentUser = false;
-var fbToken = false;
+//var currentUser = false;
+//var fbToken = false;

@@ -2,7 +2,7 @@
 var ttr = angular.module('ttr', ['ngRoute']);
 
 
-ttr.config(function($routeProvider){
+ttr.config(function($routeProvider) {
     $routeProvider.when('/', {
         templateUrl: 'start.html',
         controller: 'StartPageController'
@@ -25,22 +25,69 @@ ttr.config(function($routeProvider){
 
 });
 
-/*
-ttr.run(function ($rootScope, $location) {
-  $rootScope.$on('$routeChangeStart', function (ev, next, curr) {
-    if (next.$$route) {
-      var user = $rootScope.user
-      var auth = next.$$route.auth
-      if (auth && !auth(user)) { $location.path('/') }
+
+ttr.run(function ($rootScope, $location, Auth) {
+    $rootScope.$on('$routeChangeStart', function (event) {
+
+        console.log('routeChangeStart');
+
+        /*if (!Auth.isLoggedIn()) {
+            console.log('Inte inloggad!');
+            event.preventDefault();
+            $location.path('/login');
+        }
+        else {
+            $location.path('/welcome');
+        }*/
+    });
+});
+
+
+ttr.factory('Auth', function(){
+    var user;
+    var fbToken;
+
+    return {
+        useFbLogin: function(){
+            facebookConnectPlugin.login(["email", "user_location"],
+                function (userData) {
+                    user = userData;
+
+                    facebookConnectPlugin.getAccessToken(function(token) {
+                        fbToken = token;
+                    }, function(err) {
+                        alert("Could not get access token: " + err);
+                    });
+                },
+                function (error) { alert("Error: " + error) }
+            );
+
+        },
+        logoutUser : function () {
+            user = false;
+
+            if (fbToken) {
+                facebookConnectPlugin.logout(function(){
+                    user = false;
+                    fbToken = false;
+                }, function(){
+                    alert('Could not log out!');
+                });
+            }
+        },
+        setUser : function(aUser){
+            user = aUser;
+        },
+        isLoggedIn : function(){
+            return(user)? user : false;
+        },
+        getUser : function () {
+            return user;
+        }
     }
-  })
 });
 
-ttr.factory('auth', function ($rootScope) {
-    $rootScope.user = user;
-});
-
-
+/*
 var checkRouting = function ($location) {
 
     if (facebook.isLoggedIn) {
