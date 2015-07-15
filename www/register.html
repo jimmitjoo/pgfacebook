@@ -1,7 +1,34 @@
-<div class="header-bar">
+<div class="header-bar dark">
     <a href back-button class="back">Back</a>
     <h1 class="title">Skapa konto</h1>
 </div>
 <div class="content has-header">
+
     <div class="btn facebook" ng-click="fbLogin()">Registrera med Facebook</div>
+
+    <div class="text-center">
+      <p>
+        eller med
+      </p>
+    </div>
+
+    <form name="regForm">
+      <input class="input" ng-model="user.name" type="text" name="name" placeholder="first and lastname">
+      <input class="input" ng-model="user.username" type="text" name="username" placeholder="demo">
+      <input class="input" ng-model="user.email" type="email" name="email" placeholder="hej@hej.se">
+      <input class="input" ng-model="user.password" type="password" name="password" placeholder="password">
+      <input class="input" ng-model="user.town" type="town" name="text" placeholder="stad">
+
+      <label class="radio fifty" for="gender_female"><input ng-model="user.gender" type="radio" name="gender" value="female" id="gender_female"> Kvinna</label>
+      <label class="radio fifty" for="gender_male"><input ng-model="user.gender" type="radio" name="gender" value="male" id="gender_male"> Man</label>
+
+      <button class="btn green full" type="button" name="button" ng-click="regNewUser()">Skapa konto</button>
+    </form>
+
+    <hr class="divider">
+
+    <p class="text-center">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+
 </div>
