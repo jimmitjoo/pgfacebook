@@ -2,7 +2,7 @@
 2015-07-01 14:52:02.113 Hello World[58215:12774010] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 14:52:02.114 Hello World[58215:12774010] Multi-tasking -> Device: YES, App: YES
 2015-07-01 14:52:02.127 Hello World[58215:12774010] Unlimited access to network resources
-2015-07-01 14:52:02.141 Hello World[58215:12774010] 
+2015-07-01 14:52:02.141 Hello World[58215:12774010]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -16,7 +16,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 14:59:22.703 Hello World[58508:12808380] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 14:59:22.703 Hello World[58508:12808380] Multi-tasking -> Device: YES, App: YES
 2015-07-01 14:59:22.721 Hello World[58508:12808380] Unlimited access to network resources
-2015-07-01 14:59:22.731 Hello World[58508:12808380] 
+2015-07-01 14:59:22.731 Hello World[58508:12808380]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -30,7 +30,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 14:59:56.796 Hello World[58695:12809784] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 14:59:56.796 Hello World[58695:12809784] Multi-tasking -> Device: YES, App: YES
 2015-07-01 14:59:56.816 Hello World[58695:12809784] Unlimited access to network resources
-2015-07-01 14:59:56.831 Hello World[58695:12809784] 
+2015-07-01 14:59:56.831 Hello World[58695:12809784]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -44,7 +44,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:01:36.355 Hello World[58898:12816659] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:01:36.355 Hello World[58898:12816659] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:01:36.368 Hello World[58898:12816659] Unlimited access to network resources
-2015-07-01 15:01:36.388 Hello World[58898:12816659] 
+2015-07-01 15:01:36.388 Hello World[58898:12816659]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -58,7 +58,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:05:40.903 Hello World[59489:12835708] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:05:40.903 Hello World[59489:12835708] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:05:40.919 Hello World[59489:12835708] Unlimited access to network resources
-2015-07-01 15:05:40.937 Hello World[59489:12835708] 
+2015-07-01 15:05:40.937 Hello World[59489:12835708]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -72,7 +72,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:14:37.050 TimeToRun[60167:12880260] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:14:37.050 TimeToRun[60167:12880260] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:14:37.063 TimeToRun[60167:12880260] Unlimited access to network resources
-2015-07-01 15:14:37.075 TimeToRun[60167:12880260] 
+2015-07-01 15:14:37.075 TimeToRun[60167:12880260]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -86,7 +86,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:18:09.456 TimeToRun[60414:12900967] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:18:09.456 TimeToRun[60414:12900967] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:18:09.471 TimeToRun[60414:12900967] Unlimited access to network resources
-2015-07-01 15:18:09.482 TimeToRun[60414:12900967] 
+2015-07-01 15:18:09.482 TimeToRun[60414:12900967]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -100,7 +100,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:25:55.437 TimeToRun[60920:12945343] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:25:55.437 TimeToRun[60920:12945343] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:25:55.454 TimeToRun[60920:12945343] Unlimited access to network resources
-2015-07-01 15:25:55.463 TimeToRun[60920:12945343] 
+2015-07-01 15:25:55.463 TimeToRun[60920:12945343]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -114,7 +114,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:26:37.285 TimeToRun[61109:12948701] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:26:37.286 TimeToRun[61109:12948701] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:26:37.300 TimeToRun[61109:12948701] Unlimited access to network resources
-2015-07-01 15:26:37.303 TimeToRun[61109:12948701] 
+2015-07-01 15:26:37.303 TimeToRun[61109:12948701]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -128,7 +128,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:29:24.053 TimeToRun[61585:12961071] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:29:24.053 TimeToRun[61585:12961071] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:29:24.067 TimeToRun[61585:12961071] Unlimited access to network resources
-2015-07-01 15:29:24.069 TimeToRun[61585:12961071] 
+2015-07-01 15:29:24.069 TimeToRun[61585:12961071]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -146,7 +146,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:31:45.560 TimeToRun[61807:12978774] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:31:45.560 TimeToRun[61807:12978774] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:31:45.575 TimeToRun[61807:12978774] Unlimited access to network resources
-2015-07-01 15:31:45.595 TimeToRun[61807:12978774] 
+2015-07-01 15:31:45.595 TimeToRun[61807:12978774]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -164,7 +164,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:33:26.868 TimeToRun[62014:12991406] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:33:26.868 TimeToRun[62014:12991406] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:33:26.882 TimeToRun[62014:12991406] Unlimited access to network resources
-2015-07-01 15:33:26.895 TimeToRun[62014:12991406] 
+2015-07-01 15:33:26.895 TimeToRun[62014:12991406]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -182,7 +182,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 15:56:57.364 TimeToRun[62579:13090314] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 15:56:57.364 TimeToRun[62579:13090314] Multi-tasking -> Device: YES, App: YES
 2015-07-01 15:56:57.382 TimeToRun[62579:13090314] Unlimited access to network resources
-2015-07-01 15:56:57.396 TimeToRun[62579:13090314] 
+2015-07-01 15:56:57.396 TimeToRun[62579:13090314]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -200,7 +200,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:20:10.131 TimeToRun[63158:13155646] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:20:10.132 TimeToRun[63158:13155646] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:20:10.148 TimeToRun[63158:13155646] Unlimited access to network resources
-2015-07-01 16:20:10.174 TimeToRun[63158:13155646] 
+2015-07-01 16:20:10.174 TimeToRun[63158:13155646]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -217,7 +217,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:21:51.212 TimeToRun[63361:13167593] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:21:51.212 TimeToRun[63361:13167593] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:21:51.243 TimeToRun[63361:13167593] Unlimited access to network resources
-2015-07-01 16:21:51.257 TimeToRun[63361:13167593] 
+2015-07-01 16:21:51.257 TimeToRun[63361:13167593]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -234,7 +234,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:22:48.529 TimeToRun[63567:13172189] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:22:48.529 TimeToRun[63567:13172189] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:22:48.541 TimeToRun[63567:13172189] Unlimited access to network resources
-2015-07-01 16:22:48.549 TimeToRun[63567:13172189] 
+2015-07-01 16:22:48.549 TimeToRun[63567:13172189]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -251,7 +251,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:23:21.314 TimeToRun[63754:13175595] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:23:21.314 TimeToRun[63754:13175595] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:23:21.319 TimeToRun[63754:13175595] Unlimited access to network resources
-2015-07-01 16:23:21.322 TimeToRun[63754:13175595] 
+2015-07-01 16:23:21.322 TimeToRun[63754:13175595]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -268,7 +268,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:25:09.686 TimeToRun[63970:13191096] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:25:09.686 TimeToRun[63970:13191096] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:25:09.701 TimeToRun[63970:13191096] Unlimited access to network resources
-2015-07-01 16:25:09.715 TimeToRun[63970:13191096] 
+2015-07-01 16:25:09.715 TimeToRun[63970:13191096]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -285,7 +285,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:25:48.978 TimeToRun[64158:13196923] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:25:48.979 TimeToRun[64158:13196923] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:25:48.995 TimeToRun[64158:13196923] Unlimited access to network resources
-2015-07-01 16:25:49.006 TimeToRun[64158:13196923] 
+2015-07-01 16:25:49.006 TimeToRun[64158:13196923]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -302,7 +302,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:27:27.594 TimeToRun[64355:13208523] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:27:27.594 TimeToRun[64355:13208523] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:27:27.611 TimeToRun[64355:13208523] Unlimited access to network resources
-2015-07-01 16:27:27.622 TimeToRun[64355:13208523] 
+2015-07-01 16:27:27.622 TimeToRun[64355:13208523]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -322,7 +322,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:30:17.010 TimeToRun[64569:13227187] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:30:17.011 TimeToRun[64569:13227187] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:30:17.027 TimeToRun[64569:13227187] Unlimited access to network resources
-2015-07-01 16:30:17.038 TimeToRun[64569:13227187] 
+2015-07-01 16:30:17.038 TimeToRun[64569:13227187]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -342,7 +342,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:34:32.350 TimeToRun[64783:13245750] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:34:32.351 TimeToRun[64783:13245750] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:34:32.372 TimeToRun[64783:13245750] Unlimited access to network resources
-2015-07-01 16:34:32.387 TimeToRun[64783:13245750] 
+2015-07-01 16:34:32.387 TimeToRun[64783:13245750]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -359,7 +359,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:35:58.221 TimeToRun[64978:13253850] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:35:58.222 TimeToRun[64978:13253850] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:35:58.226 TimeToRun[64978:13253850] Unlimited access to network resources
-2015-07-01 16:35:58.230 TimeToRun[64978:13253850] 
+2015-07-01 16:35:58.230 TimeToRun[64978:13253850]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -376,7 +376,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:37:02.467 TimeToRun[65178:13260929] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:37:02.467 TimeToRun[65178:13260929] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:37:02.484 TimeToRun[65178:13260929] Unlimited access to network resources
-2015-07-01 16:37:02.495 TimeToRun[65178:13260929] 
+2015-07-01 16:37:02.495 TimeToRun[65178:13260929]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -394,7 +394,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:37:58.450 TimeToRun[65368:13267205] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:37:58.450 TimeToRun[65368:13267205] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:37:58.466 TimeToRun[65368:13267205] Unlimited access to network resources
-2015-07-01 16:37:58.478 TimeToRun[65368:13267205] 
+2015-07-01 16:37:58.478 TimeToRun[65368:13267205]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -412,7 +412,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:38:57.143 TimeToRun[65557:13273152] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:38:57.143 TimeToRun[65557:13273152] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:38:57.162 TimeToRun[65557:13273152] Unlimited access to network resources
-2015-07-01 16:38:57.177 TimeToRun[65557:13273152] 
+2015-07-01 16:38:57.177 TimeToRun[65557:13273152]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -432,7 +432,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-01 16:41:19.582 TimeToRun[65763:13285119] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-01 16:41:19.582 TimeToRun[65763:13285119] Multi-tasking -> Device: YES, App: YES
 2015-07-01 16:41:19.599 TimeToRun[65763:13285119] Unlimited access to network resources
-2015-07-01 16:41:19.610 TimeToRun[65763:13285119] 
+2015-07-01 16:41:19.610 TimeToRun[65763:13285119]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -454,7 +454,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 09:23:17.259 TimeToRun[69950:13585123] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 09:23:17.260 TimeToRun[69950:13585123] Multi-tasking -> Device: YES, App: YES
 2015-07-02 09:23:17.278 TimeToRun[69950:13585123] Unlimited access to network resources
-2015-07-02 09:23:17.287 TimeToRun[69950:13585123] 
+2015-07-02 09:23:17.287 TimeToRun[69950:13585123]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -471,7 +471,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 09:45:15.320 TimeToRun[70459:13656802] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 09:45:15.321 TimeToRun[70459:13656802] Multi-tasking -> Device: YES, App: YES
 2015-07-02 09:45:15.338 TimeToRun[70459:13656802] Unlimited access to network resources
-2015-07-02 09:45:15.348 TimeToRun[70459:13656802] 
+2015-07-02 09:45:15.348 TimeToRun[70459:13656802]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -489,7 +489,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 10:31:46.424 TimeToRun[74155:13812244] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 10:31:46.424 TimeToRun[74155:13812244] Multi-tasking -> Device: YES, App: YES
 2015-07-02 10:31:46.441 TimeToRun[74155:13812244] Unlimited access to network resources
-2015-07-02 10:31:46.469 TimeToRun[74155:13812244] 
+2015-07-02 10:31:46.469 TimeToRun[74155:13812244]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -508,7 +508,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 10:40:32.863 TimeToRun[77059:13850028] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 10:40:32.864 TimeToRun[77059:13850028] Multi-tasking -> Device: YES, App: YES
 2015-07-02 10:40:32.879 TimeToRun[77059:13850028] Unlimited access to network resources
-2015-07-02 10:40:32.892 TimeToRun[77059:13850028] 
+2015-07-02 10:40:32.892 TimeToRun[77059:13850028]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -525,7 +525,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 10:42:00.331 TimeToRun[79666:13858117] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 10:42:00.331 TimeToRun[79666:13858117] Multi-tasking -> Device: YES, App: YES
 2015-07-02 10:42:00.349 TimeToRun[79666:13858117] Unlimited access to network resources
-2015-07-02 10:42:00.366 TimeToRun[79666:13858117] 
+2015-07-02 10:42:00.366 TimeToRun[79666:13858117]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -542,7 +542,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 10:43:51.030 TimeToRun[82392:13867296] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 10:43:51.030 TimeToRun[82392:13867296] Multi-tasking -> Device: YES, App: YES
 2015-07-02 10:43:51.046 TimeToRun[82392:13867296] Unlimited access to network resources
-2015-07-02 10:43:51.058 TimeToRun[82392:13867296] 
+2015-07-02 10:43:51.058 TimeToRun[82392:13867296]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -559,7 +559,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 10:46:22.987 TimeToRun[85022:13887968] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 10:46:22.987 TimeToRun[85022:13887968] Multi-tasking -> Device: YES, App: YES
 2015-07-02 10:46:23.007 TimeToRun[85022:13887968] Unlimited access to network resources
-2015-07-02 10:46:23.015 TimeToRun[85022:13887968] 
+2015-07-02 10:46:23.015 TimeToRun[85022:13887968]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -576,7 +576,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 10:53:54.153 TimeToRun[87694:13926931] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 10:53:54.154 TimeToRun[87694:13926931] Multi-tasking -> Device: YES, App: YES
 2015-07-02 10:53:54.167 TimeToRun[87694:13926931] Unlimited access to network resources
-2015-07-02 10:53:54.180 TimeToRun[87694:13926931] 
+2015-07-02 10:53:54.180 TimeToRun[87694:13926931]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -593,7 +593,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:27:12.909 TimeToRun[91205:14154555] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:27:12.910 TimeToRun[91205:14154555] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:27:12.924 TimeToRun[91205:14154555] Unlimited access to network resources
-2015-07-02 11:27:12.938 TimeToRun[91205:14154555] 
+2015-07-02 11:27:12.938 TimeToRun[91205:14154555]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -610,7 +610,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:28:38.901 TimeToRun[93802:14159444] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:28:38.901 TimeToRun[93802:14159444] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:28:38.919 TimeToRun[93802:14159444] Unlimited access to network resources
-2015-07-02 11:28:38.922 TimeToRun[93802:14159444] 
+2015-07-02 11:28:38.922 TimeToRun[93802:14159444]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -627,7 +627,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:29:35.439 TimeToRun[96403:14167025] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:29:35.439 TimeToRun[96403:14167025] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:29:35.900 TimeToRun[96403:14167025] Unlimited access to network resources
-2015-07-02 11:29:35.903 TimeToRun[96403:14167025] 
+2015-07-02 11:29:35.903 TimeToRun[96403:14167025]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -644,7 +644,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:30:58.316 TimeToRun[99063:14175676] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:30:58.317 TimeToRun[99063:14175676] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:30:58.329 TimeToRun[99063:14175676] Unlimited access to network resources
-2015-07-02 11:30:58.331 TimeToRun[99063:14175676] 
+2015-07-02 11:30:58.331 TimeToRun[99063:14175676]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -661,7 +661,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:34:54.992 TimeToRun[1927:14195464] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:34:54.992 TimeToRun[1927:14195464] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:34:55.020 TimeToRun[1927:14195464] Unlimited access to network resources
-2015-07-02 11:34:55.023 TimeToRun[1927:14195464] 
+2015-07-02 11:34:55.023 TimeToRun[1927:14195464]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -678,7 +678,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:38:54.287 TimeToRun[4595:14220259] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:38:54.287 TimeToRun[4595:14220259] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:38:54.307 TimeToRun[4595:14220259] Unlimited access to network resources
-2015-07-02 11:38:54.309 TimeToRun[4595:14220259] 
+2015-07-02 11:38:54.309 TimeToRun[4595:14220259]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -695,7 +695,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:40:22.293 TimeToRun[7223:14232087] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:40:22.294 TimeToRun[7223:14232087] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:40:22.304 TimeToRun[7223:14232087] Unlimited access to network resources
-2015-07-02 11:40:22.307 TimeToRun[7223:14232087] 
+2015-07-02 11:40:22.307 TimeToRun[7223:14232087]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -712,7 +712,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:43:05.031 TimeToRun[9915:14252988] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:43:05.031 TimeToRun[9915:14252988] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:43:05.212 TimeToRun[9915:14252988] Unlimited access to network resources
-2015-07-02 11:43:05.214 TimeToRun[9915:14252988] 
+2015-07-02 11:43:05.214 TimeToRun[9915:14252988]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -729,7 +729,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:55:00.957 TimeToRun[12712:14314294] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:55:00.958 TimeToRun[12712:14314294] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:55:00.970 TimeToRun[12712:14314294] Unlimited access to network resources
-2015-07-02 11:55:00.973 TimeToRun[12712:14314294] 
+2015-07-02 11:55:00.973 TimeToRun[12712:14314294]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -746,7 +746,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 11:55:33.498 TimeToRun[15312:14319700] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 11:55:33.498 TimeToRun[15312:14319700] Multi-tasking -> Device: YES, App: YES
 2015-07-02 11:55:33.518 TimeToRun[15312:14319700] Unlimited access to network resources
-2015-07-02 11:55:33.521 TimeToRun[15312:14319700] 
+2015-07-02 11:55:33.521 TimeToRun[15312:14319700]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -763,7 +763,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 12:00:06.104 TimeToRun[18014:14348948] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 12:00:06.105 TimeToRun[18014:14348948] Multi-tasking -> Device: YES, App: YES
 2015-07-02 12:00:06.171 TimeToRun[18014:14348948] Unlimited access to network resources
-2015-07-02 12:00:06.174 TimeToRun[18014:14348948] 
+2015-07-02 12:00:06.174 TimeToRun[18014:14348948]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -780,7 +780,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 12:05:23.053 TimeToRun[20665:14378841] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 12:05:23.054 TimeToRun[20665:14378841] Multi-tasking -> Device: YES, App: YES
 2015-07-02 12:05:23.073 TimeToRun[20665:14378841] Unlimited access to network resources
-2015-07-02 12:05:23.075 TimeToRun[20665:14378841] 
+2015-07-02 12:05:23.075 TimeToRun[20665:14378841]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -797,7 +797,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 12:07:04.422 TimeToRun[23349:14388642] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 12:07:04.423 TimeToRun[23349:14388642] Multi-tasking -> Device: YES, App: YES
 2015-07-02 12:07:04.441 TimeToRun[23349:14388642] Unlimited access to network resources
-2015-07-02 12:07:04.444 TimeToRun[23349:14388642] 
+2015-07-02 12:07:04.444 TimeToRun[23349:14388642]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -815,7 +815,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 12:11:15.614 TimeToRun[26010:14412725] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 12:11:15.615 TimeToRun[26010:14412725] Multi-tasking -> Device: YES, App: YES
 2015-07-02 12:11:15.630 TimeToRun[26010:14412725] Unlimited access to network resources
-2015-07-02 12:11:15.632 TimeToRun[26010:14412725] 
+2015-07-02 12:11:15.632 TimeToRun[26010:14412725]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -833,7 +833,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 12:13:02.073 TimeToRun[28622:14426922] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 12:13:02.073 TimeToRun[28622:14426922] Multi-tasking -> Device: YES, App: YES
 2015-07-02 12:13:02.084 TimeToRun[28622:14426922] Unlimited access to network resources
-2015-07-02 12:13:02.087 TimeToRun[28622:14426922] 
+2015-07-02 12:13:02.087 TimeToRun[28622:14426922]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -851,7 +851,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 12:24:54.606 TimeToRun[31313:14471838] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 12:24:54.606 TimeToRun[31313:14471838] Multi-tasking -> Device: YES, App: YES
 2015-07-02 12:24:54.618 TimeToRun[31313:14471838] Unlimited access to network resources
-2015-07-02 12:24:54.632 TimeToRun[31313:14471838] 
+2015-07-02 12:24:54.632 TimeToRun[31313:14471838]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -869,7 +869,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 14:10:43.790 TimeToRun[34656:14670105] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 14:10:43.790 TimeToRun[34656:14670105] Multi-tasking -> Device: YES, App: YES
 2015-07-02 14:10:43.798 TimeToRun[34656:14670105] Unlimited access to network resources
-2015-07-02 14:10:43.816 TimeToRun[34656:14670105] 
+2015-07-02 14:10:43.816 TimeToRun[34656:14670105]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -887,7 +887,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 14:46:59.144 TimeToRun[37624:14786758] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 14:46:59.144 TimeToRun[37624:14786758] Multi-tasking -> Device: YES, App: YES
 2015-07-02 14:46:59.175 TimeToRun[37624:14786758] Unlimited access to network resources
-2015-07-02 14:46:59.190 TimeToRun[37624:14786758] 
+2015-07-02 14:46:59.190 TimeToRun[37624:14786758]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -905,7 +905,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 14:48:15.142 TimeToRun[40227:14793332] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 14:48:15.142 TimeToRun[40227:14793332] Multi-tasking -> Device: YES, App: YES
 2015-07-02 14:48:15.159 TimeToRun[40227:14793332] Unlimited access to network resources
-2015-07-02 14:48:15.161 TimeToRun[40227:14793332] 
+2015-07-02 14:48:15.161 TimeToRun[40227:14793332]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -923,7 +923,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 14:48:59.283 TimeToRun[42821:14800014] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 14:48:59.283 TimeToRun[42821:14800014] Multi-tasking -> Device: YES, App: YES
 2015-07-02 14:48:59.302 TimeToRun[42821:14800014] Unlimited access to network resources
-2015-07-02 14:48:59.305 TimeToRun[42821:14800014] 
+2015-07-02 14:48:59.305 TimeToRun[42821:14800014]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -941,7 +941,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 14:54:18.945 TimeToRun[45461:14835580] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 14:54:18.946 TimeToRun[45461:14835580] Multi-tasking -> Device: YES, App: YES
 2015-07-02 14:54:18.965 TimeToRun[45461:14835580] Unlimited access to network resources
-2015-07-02 14:54:18.968 TimeToRun[45461:14835580] 
+2015-07-02 14:54:18.968 TimeToRun[45461:14835580]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -959,7 +959,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 14:55:40.086 TimeToRun[48063:14846827] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 14:55:40.087 TimeToRun[48063:14846827] Multi-tasking -> Device: YES, App: YES
 2015-07-02 14:55:40.106 TimeToRun[48063:14846827] Unlimited access to network resources
-2015-07-02 14:55:40.109 TimeToRun[48063:14846827] 
+2015-07-02 14:55:40.109 TimeToRun[48063:14846827]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -977,7 +977,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:00:27.790 TimeToRun[50727:14885179] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:00:27.791 TimeToRun[50727:14885179] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:00:27.806 TimeToRun[50727:14885179] Unlimited access to network resources
-2015-07-02 15:00:27.808 TimeToRun[50727:14885179] 
+2015-07-02 15:00:27.808 TimeToRun[50727:14885179]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -995,7 +995,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:01:32.736 TimeToRun[53347:14895049] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:01:32.736 TimeToRun[53347:14895049] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:01:32.752 TimeToRun[53347:14895049] Unlimited access to network resources
-2015-07-02 15:01:32.754 TimeToRun[53347:14895049] 
+2015-07-02 15:01:32.754 TimeToRun[53347:14895049]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1013,7 +1013,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:05:18.220 TimeToRun[55992:14915213] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:05:18.220 TimeToRun[55992:14915213] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:05:18.247 TimeToRun[55992:14915213] Unlimited access to network resources
-2015-07-02 15:05:18.249 TimeToRun[55992:14915213] 
+2015-07-02 15:05:18.249 TimeToRun[55992:14915213]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1031,7 +1031,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:05:51.393 TimeToRun[58643:14919484] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:05:51.394 TimeToRun[58643:14919484] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:05:51.404 TimeToRun[58643:14919484] Unlimited access to network resources
-2015-07-02 15:05:51.406 TimeToRun[58643:14919484] 
+2015-07-02 15:05:51.406 TimeToRun[58643:14919484]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1049,7 +1049,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:08:02.765 TimeToRun[61261:14931030] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:08:02.766 TimeToRun[61261:14931030] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:08:02.771 TimeToRun[61261:14931030] Unlimited access to network resources
-2015-07-02 15:08:02.774 TimeToRun[61261:14931030] 
+2015-07-02 15:08:02.774 TimeToRun[61261:14931030]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1067,7 +1067,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:09:22.452 TimeToRun[63886:14937491] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:09:22.452 TimeToRun[63886:14937491] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:09:22.472 TimeToRun[63886:14937491] Unlimited access to network resources
-2015-07-02 15:09:22.474 TimeToRun[63886:14937491] 
+2015-07-02 15:09:22.474 TimeToRun[63886:14937491]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1085,7 +1085,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:17:41.801 TimeToRun[66625:14994769] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:17:41.801 TimeToRun[66625:14994769] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:17:41.819 TimeToRun[66625:14994769] Unlimited access to network resources
-2015-07-02 15:17:41.821 TimeToRun[66625:14994769] 
+2015-07-02 15:17:41.821 TimeToRun[66625:14994769]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1103,7 +1103,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:21:42.591 TimeToRun[69407:15025641] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:21:42.591 TimeToRun[69407:15025641] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:21:42.614 TimeToRun[69407:15025641] Unlimited access to network resources
-2015-07-02 15:21:42.617 TimeToRun[69407:15025641] 
+2015-07-02 15:21:42.617 TimeToRun[69407:15025641]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1121,7 +1121,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:23:27.016 TimeToRun[72092:15040222] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:23:27.017 TimeToRun[72092:15040222] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:23:27.034 TimeToRun[72092:15040222] Unlimited access to network resources
-2015-07-02 15:23:27.036 TimeToRun[72092:15040222] 
+2015-07-02 15:23:27.036 TimeToRun[72092:15040222]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1139,7 +1139,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:24:00.145 TimeToRun[74752:15044191] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:24:00.145 TimeToRun[74752:15044191] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:24:00.396 TimeToRun[74752:15044191] Unlimited access to network resources
-2015-07-02 15:24:00.398 TimeToRun[74752:15044191] 
+2015-07-02 15:24:00.398 TimeToRun[74752:15044191]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1157,7 +1157,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:25:18.823 TimeToRun[77424:15055685] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:25:18.824 TimeToRun[77424:15055685] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:25:18.860 TimeToRun[77424:15055685] Unlimited access to network resources
-2015-07-02 15:25:18.862 TimeToRun[77424:15055685] 
+2015-07-02 15:25:18.862 TimeToRun[77424:15055685]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1175,7 +1175,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:26:04.425 TimeToRun[80038:15060959] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:26:04.425 TimeToRun[80038:15060959] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:26:04.436 TimeToRun[80038:15060959] Unlimited access to network resources
-2015-07-02 15:26:04.438 TimeToRun[80038:15060959] 
+2015-07-02 15:26:04.438 TimeToRun[80038:15060959]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1193,7 +1193,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:31:35.025 TimeToRun[82700:15093214] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:31:35.026 TimeToRun[82700:15093214] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:31:35.069 TimeToRun[82700:15093214] Unlimited access to network resources
-2015-07-02 15:31:35.073 TimeToRun[82700:15093214] 
+2015-07-02 15:31:35.073 TimeToRun[82700:15093214]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1211,7 +1211,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:33:27.943 TimeToRun[85321:15102861] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:33:27.943 TimeToRun[85321:15102861] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:33:27.955 TimeToRun[85321:15102861] Unlimited access to network resources
-2015-07-02 15:33:27.958 TimeToRun[85321:15102861] 
+2015-07-02 15:33:27.958 TimeToRun[85321:15102861]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1229,7 +1229,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:45:11.843 TimeToRun[88141:15187816] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:45:11.843 TimeToRun[88141:15187816] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:45:11.864 TimeToRun[88141:15187816] Unlimited access to network resources
-2015-07-02 15:45:11.867 TimeToRun[88141:15187816] 
+2015-07-02 15:45:11.867 TimeToRun[88141:15187816]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1247,7 +1247,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:47:23.227 TimeToRun[90785:15207531] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:47:23.228 TimeToRun[90785:15207531] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:47:23.253 TimeToRun[90785:15207531] Unlimited access to network resources
-2015-07-02 15:47:23.255 TimeToRun[90785:15207531] 
+2015-07-02 15:47:23.255 TimeToRun[90785:15207531]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1265,7 +1265,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 15:58:55.963 TimeToRun[93593:15279536] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 15:58:55.963 TimeToRun[93593:15279536] Multi-tasking -> Device: YES, App: YES
 2015-07-02 15:58:55.981 TimeToRun[93593:15279536] Unlimited access to network resources
-2015-07-02 15:58:55.984 TimeToRun[93593:15279536] 
+2015-07-02 15:58:55.984 TimeToRun[93593:15279536]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1284,7 +1284,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-02 16:02:34.237 TimeToRun[96240:15302742] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-02 16:02:34.237 TimeToRun[96240:15302742] Multi-tasking -> Device: YES, App: YES
 2015-07-02 16:02:34.269 TimeToRun[96240:15302742] Unlimited access to network resources
-2015-07-02 16:02:34.271 TimeToRun[96240:15302742] 
+2015-07-02 16:02:34.271 TimeToRun[96240:15302742]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1303,7 +1303,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 08:47:03.966 TimeToRun[2823:15596718] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 08:47:03.966 TimeToRun[2823:15596718] Multi-tasking -> Device: YES, App: YES
 2015-07-03 08:47:03.977 TimeToRun[2823:15596718] Unlimited access to network resources
-2015-07-03 08:47:03.995 TimeToRun[2823:15596718] 
+2015-07-03 08:47:03.995 TimeToRun[2823:15596718]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1321,7 +1321,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 08:51:16.388 TimeToRun[5547:15629373] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 08:51:16.388 TimeToRun[5547:15629373] Multi-tasking -> Device: YES, App: YES
 2015-07-03 08:51:16.399 TimeToRun[5547:15629373] Unlimited access to network resources
-2015-07-03 08:51:16.402 TimeToRun[5547:15629373] 
+2015-07-03 08:51:16.402 TimeToRun[5547:15629373]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1339,7 +1339,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 09:05:13.975 TimeToRun[8317:15700471] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 09:05:13.975 TimeToRun[8317:15700471] Multi-tasking -> Device: YES, App: YES
 2015-07-03 09:05:13.980 TimeToRun[8317:15700471] Unlimited access to network resources
-2015-07-03 09:05:13.990 TimeToRun[8317:15700471] 
+2015-07-03 09:05:13.990 TimeToRun[8317:15700471]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1357,7 +1357,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 09:07:07.456 TimeToRun[10951:15714070] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 09:07:07.457 TimeToRun[10951:15714070] Multi-tasking -> Device: YES, App: YES
 2015-07-03 09:07:07.493 TimeToRun[10951:15714070] Unlimited access to network resources
-2015-07-03 09:07:07.496 TimeToRun[10951:15714070] 
+2015-07-03 09:07:07.496 TimeToRun[10951:15714070]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1375,7 +1375,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 09:13:12.471 TimeToRun[13616:15743088] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 09:13:12.472 TimeToRun[13616:15743088] Multi-tasking -> Device: YES, App: YES
 2015-07-03 09:13:12.498 TimeToRun[13616:15743088] Unlimited access to network resources
-2015-07-03 09:13:12.501 TimeToRun[13616:15743088] 
+2015-07-03 09:13:12.501 TimeToRun[13616:15743088]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1393,7 +1393,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 09:15:11.234 TimeToRun[16295:15758024] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 09:15:11.235 TimeToRun[16295:15758024] Multi-tasking -> Device: YES, App: YES
 2015-07-03 09:15:11.247 TimeToRun[16295:15758024] Unlimited access to network resources
-2015-07-03 09:15:11.250 TimeToRun[16295:15758024] 
+2015-07-03 09:15:11.250 TimeToRun[16295:15758024]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1412,7 +1412,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 09:37:59.348 TimeToRun[19366:15855992] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 09:37:59.348 TimeToRun[19366:15855992] Multi-tasking -> Device: YES, App: YES
 2015-07-03 09:37:59.367 TimeToRun[19366:15855992] Unlimited access to network resources
-2015-07-03 09:37:59.382 TimeToRun[19366:15855992] 
+2015-07-03 09:37:59.382 TimeToRun[19366:15855992]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1430,7 +1430,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 10:07:10.925 TimeToRun[22383:15992332] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 10:07:10.926 TimeToRun[22383:15992332] Multi-tasking -> Device: YES, App: YES
 2015-07-03 10:07:10.941 TimeToRun[22383:15992332] Unlimited access to network resources
-2015-07-03 10:07:10.950 TimeToRun[22383:15992332] 
+2015-07-03 10:07:10.950 TimeToRun[22383:15992332]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1448,7 +1448,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 10:12:29.555 TimeToRun[25184:16029530] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 10:12:29.555 TimeToRun[25184:16029530] Multi-tasking -> Device: YES, App: YES
 2015-07-03 10:12:29.571 TimeToRun[25184:16029530] Unlimited access to network resources
-2015-07-03 10:12:29.590 TimeToRun[25184:16029530] 
+2015-07-03 10:12:29.590 TimeToRun[25184:16029530]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1467,7 +1467,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 10:43:25.122 TimeToRun[28083:16187455] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 10:43:25.122 TimeToRun[28083:16187455] Multi-tasking -> Device: YES, App: YES
 2015-07-03 10:43:25.136 TimeToRun[28083:16187455] Unlimited access to network resources
-2015-07-03 10:43:25.149 TimeToRun[28083:16187455] 
+2015-07-03 10:43:25.149 TimeToRun[28083:16187455]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1487,7 +1487,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 13:09:49.353 TimeToRun[31421:16500112] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-03 13:09:49.354 TimeToRun[31421:16500112] Multi-tasking -> Device: YES, App: YES
 2015-07-03 13:09:49.371 TimeToRun[31421:16500112] Unlimited access to network resources
-2015-07-03 13:09:49.388 TimeToRun[31421:16500112] 
+2015-07-03 13:09:49.388 TimeToRun[31421:16500112]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1501,11 +1501,12 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-03 13:09:49.622 TimeToRun[31421:16500112] [CDVTimer][TotalPluginStartup] 142.899036ms
 2015-07-03 13:09:49.750 TimeToRun[31421:16500112] Resetting plugins due to page load.
 2015-07-03 13:09:49.995 TimeToRun[31421:16500112] Finished load of: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/FF9021F9-67EF-4168-8122-5D58A2141527/data/Containers/Bundle/Application/D02C45C1-66B1-44C8-876B-C2B6C17CA6EA/TimeToRun.app/www/index.html#/
-2015-07-08 20:30:28.776 TimeToRun[18861:2508535] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/F6C771D2-D854-4847-9C84-4D7F60833D07/data/Containers/Data/Application/46382ECF-5E5A-4CBB-82B8-6CC8EF44A5FF/Library/Cookies/Cookies.binarycookies
-2015-07-08 20:30:29.552 TimeToRun[18861:2508535] Apache Cordova native platform version 3.8.0 is starting.
-2015-07-08 20:30:29.553 TimeToRun[18861:2508535] Multi-tasking -> Device: YES, App: YES
-2015-07-08 20:30:29.605 TimeToRun[18861:2508535] Unlimited access to network resources
-2015-07-08 20:30:29.619 TimeToRun[18861:2508535] 
+
+2015-07-09 15:57:26.686 TimeToRun[66692:7535443] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/1D3C09EF-E37F-4988-84DF-7C9421F80649/data/Containers/Data/Application/A2E6206A-E494-45EF-A363-8E5B0E928C8C/Library/Cookies/Cookies.binarycookies
+2015-07-09 15:57:27.211 TimeToRun[66692:7535443] Apache Cordova native platform version 3.8.0 is starting.
+2015-07-09 15:57:27.211 TimeToRun[66692:7535443] Multi-tasking -> Device: YES, App: YES
+2015-07-09 15:57:27.250 TimeToRun[66692:7535443] Unlimited access to network resources
+2015-07-09 15:57:27.260 TimeToRun[66692:7535443]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1523,7 +1524,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-08 20:31:12.300 TimeToRun[21422:2514351] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-08 20:31:12.301 TimeToRun[21422:2514351] Multi-tasking -> Device: YES, App: YES
 2015-07-08 20:31:12.313 TimeToRun[21422:2514351] Unlimited access to network resources
-2015-07-08 20:31:12.324 TimeToRun[21422:2514351] 
+2015-07-08 20:31:12.324 TimeToRun[21422:2514351]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1542,7 +1543,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-13 17:50:48.089 TimeToRun[51177:6773518] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-13 17:50:48.090 TimeToRun[51177:6773518] Multi-tasking -> Device: YES, App: YES
 2015-07-13 17:50:48.120 TimeToRun[51177:6773518] Unlimited access to network resources
-2015-07-13 17:50:48.145 TimeToRun[51177:6773518] 
+2015-07-13 17:50:48.145 TimeToRun[51177:6773518]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1561,7 +1562,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-13 22:13:39.287 TimeToRun[56711:7681230] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-13 22:13:39.288 TimeToRun[56711:7681230] Multi-tasking -> Device: YES, App: YES
 2015-07-13 22:13:39.297 TimeToRun[56711:7681230] Unlimited access to network resources
-2015-07-13 22:13:39.310 TimeToRun[56711:7681230] 
+2015-07-13 22:13:39.310 TimeToRun[56711:7681230]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1579,7 +1580,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-13 22:17:48.099 TimeToRun[59274:7715196] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-13 22:17:48.100 TimeToRun[59274:7715196] Multi-tasking -> Device: YES, App: YES
 2015-07-13 22:17:48.109 TimeToRun[59274:7715196] Unlimited access to network resources
-2015-07-13 22:17:48.111 TimeToRun[59274:7715196] 
+2015-07-13 22:17:48.111 TimeToRun[59274:7715196]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1597,7 +1598,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-13 22:23:26.762 TimeToRun[61858:7763491] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-13 22:23:26.762 TimeToRun[61858:7763491] Multi-tasking -> Device: YES, App: YES
 2015-07-13 22:23:26.781 TimeToRun[61858:7763491] Unlimited access to network resources
-2015-07-13 22:23:26.793 TimeToRun[61858:7763491] 
+2015-07-13 22:23:26.793 TimeToRun[61858:7763491]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1615,7 +1616,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-13 22:25:28.876 TimeToRun[64488:7780227] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-13 22:25:28.876 TimeToRun[64488:7780227] Multi-tasking -> Device: YES, App: YES
 2015-07-13 22:25:28.929 TimeToRun[64488:7780227] Unlimited access to network resources
-2015-07-13 22:25:28.931 TimeToRun[64488:7780227] 
+2015-07-13 22:25:28.931 TimeToRun[64488:7780227]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1636,7 +1637,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-14 14:31:46.766 TimeToRun[72050:8862819] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-14 14:31:46.766 TimeToRun[72050:8862819] Multi-tasking -> Device: YES, App: YES
 2015-07-14 14:31:46.780 TimeToRun[72050:8862819] Unlimited access to network resources
-2015-07-14 14:31:46.797 TimeToRun[72050:8862819] 
+2015-07-14 14:31:46.797 TimeToRun[72050:8862819]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1654,7 +1655,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-14 14:32:10.723 TimeToRun[74604:8865939] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-14 14:32:10.723 TimeToRun[74604:8865939] Multi-tasking -> Device: YES, App: YES
 2015-07-14 14:32:10.725 TimeToRun[74604:8865939] Unlimited access to network resources
-2015-07-14 14:32:10.727 TimeToRun[74604:8865939] 
+2015-07-14 14:32:10.727 TimeToRun[74604:8865939]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
@@ -1674,7 +1675,7 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-07-14 17:55:19.615 TimeToRun[78179:9505566] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jimmitjoo/Library/Developer/CoreSimulator/Devices/F6C771D2-D854-4847-9C84-4D7F60833D07/data/Containers/Data/Application/0F619EC8-241B-4E7C-8281-4EAE975F1A98/Library/Cookies/Cookies.binarycookies
 2015-07-14 17:55:21.084 TimeToRun[78179:9505566] Apache Cordova native platform version 3.8.0 is starting.
 2015-07-14 17:55:21.084 TimeToRun[78179:9505566] Multi-tasking -> Device: YES, App: YES
-2015-07-14 17:55:21.145 TimeToRun[78179:9505566] 
+2015-07-14 17:55:21.145 TimeToRun[78179:9505566]
 
 Started backup to iCloud! Please be careful.
 Your application might be rejected by Apple if you store too much data.
